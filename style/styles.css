@@ -1,0 +1,77 @@
+body{
+    background-color:#ffe2d1;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+h1{
+    margin-top: 0;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 90px;
+}
+h3{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #00303f;
+
+}
+h2{
+    color: #583d72;
+}
+
+
+.main{
+    background-color: #fdb184;
+    position: relative;
+    padding-top: 100px;
+    
+}
+
+.middle-container{
+    padding-top: 20px;
+    padding-bottom: 10px;;
+}
+
+
+.tcupcakes{
+    height: 120px;
+    width: 80px;
+    position: absolute;
+    right: 450px;
+    top: 50px;
+}
+
+
+.bcupcakes{
+    height: 120px;
+    width: 80px;
+    position: absolute;
+    left: 450px;
+    top: 200px;
+}
+
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.one{
+    width: 15%;
+    float: left;
+    margin-right: 20px;
+}
+
+.two{
+        width: 15%;
+        float:right;
+        margin-left:20px;
+}
+.bottom-container{
+    background-color: #8ab6d6;
+}
+.me{
+    width:10%;
+}
